@@ -1,0 +1,59 @@
+[
+	{
+		"title": "Decolonial AI Manyfesto",
+		"url": "https://manyfesto.ai/",
+		"contents": "This manyfesto is a provocation, a question, an opening, a dance about a future of AI technologies that is decolonial. We call it manyfesto, since it reflects some visions among many, and we hope to invite exchange, conversation, and the development of statements from people affected by AI technology.\\nWe begin with the challenge posed by the language we use to talk about AI: language that has emerged, as much of the technology has, dominated by Western male voices, whiteness, and wealth. We seek to uncover, to question, upend, and reinvent the assumptions underlying this language, even as we use it.\\n\"Artificial\" and \"intelligence\" are loaded terms, their definitions subject to cultural biases. AI is a technology, a science, a business, a knowledge system, a set of narratives, of relationships, an imaginary. Across each facet, our effort is to undo the colonial erasure of non-Western ways of being and knowing. The word \"decoloniality,\" too, resonates differently in different communities, including with Indigenous peoples and those for whom colonialism is not a history but a present reality. Some reject the term decolonial in this context. We acknowledge both its use and its rejection.\\nWe do not seek consensus: we value human difference. We reject the idea that any one framework could rule globally. We reject the Western-normative language of \"ethical\" AI and suggestions of \"inclusivity\" that do not destabilize current patterns of domination and address power asymmetries. We reject as half-measures any principles meant to tweak, reinforce, and whitewash the status quo, merely blunting its devastation. They fail to acknowledge how the social and the technical are interwoven, and technologies have immaterial as well as material impacts over specific gendered, racialized bodies and territories. Decoloniality rejects the divorcing of the material and immaterial, of feeling from being, knowing, doing or living.\\nNotions of decolonial governances will emerge from community and situated contexts, questioning what currently constitutes hegemonic narratives. Decolonialilty is not merely diversity and inclusion; removing the echoes of coloniality in AI will require reparations for present and past material and epistemic injustice and dispossession. These reinventions of AI governance will acknowledge the expertise that comes from lived experience, and create new pathways to make it possible for those who have historically been marginalized to have the opportunity to decide and build their own dignified socio-technical futures. Decolonial governance will recognize, in a way that Western-centric governance structures historically have not, how our destinies are intertwined. We owe each other our mutual futures.\\nOur humanity is relational, defined by how we are tied to one another. Technology has an important role in those relationships. Creation, art, stories and sensitive experience are some of the paths that we must explore in order to foster the decolonial imagination. We seek to center the engineering, design, knowledge-production, and dispute-resolution practices of diverse cultures, which are embedded with their own value systems.\\nOur urgency arises from humans’ capacity to use AI as a knowledge system to create irrefutable “algorithmic truths” to reinforce domination. In doing so, other systems of knowledge production and other visions are denied and erased, as are other peoples’ agency, autonomy, and contestation. In this way AI coloniality extends beyond data colonialism: AI implies material extractivism, and the use of AI has the capacity to shape reality. Designed in an unequal society, these systems can be employed to reproduce those inequalities. Built with an emphasis on efficiency rather than dignity, they can do irreparable harm. In insisting on a decolonial AI, we stand for the right of each historically marginalized community to reshape reality on their terms.\\nOur methods will evolve, sensitive to needs and opportunities, but our aim is to create and hold a resonant forum for learning and exchange from and between voices silenced by colonialist structures and the coloniality in force through socio-technical systems.",
+		"authors": [
+		    "Aarathi Krishnan",
+		    "Angie Abdilla",
+		    "A Jung Moon",
+		    "Carlos Affonso Souza",
+		    "Chelle Adamson",
+		    "Eileen M. Lach",
+		    "Farah Ghazal",
+		    "Jessica Fjeld",
+		    "Jennyfer Taylor",
+		    "John C. Havens",
+		    "Malavika Jayaram",
+		    "Monique Morrow",
+		    "Nagla Rizk",
+		    "Paola Ricaurte Quijano",
+		    "R. Buse Çetin",
+		    "Raja Chatila",
+		    "Ravit Dotan",
+		    "Sabelo Mhlambi",
+		    "Sara Jordan",
+		    "Sarita Rosenstock"
+		],
+		"affiliation": "other",
+		"date": "2022-05-23",
+	       	"keywords": ["collective", "decolonial"]
+	},
+	{
+		"title": "OpenAI Charter",
+		"url": "",
+		"contents": "<p>OpenAI's mission is to ensure that artificial general intelligence (AGI) - by which we mean highly autonomous systems that outperform humans at most economically valuable work - benefits all of humanity. We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome. To that end, we commit to the following principles:</p><h3>Broadly Distributed Benefits</h3><ul><li>We commit to use any influence we obtain over AGI’s deployment to ensure it is used for the benefit of all, and to avoid enabling uses of AI or AGI that harm humanity or unduly concentrate power.</li><li>Our primary fiduciary duty is to humanity. We anticipate needing to marshal substantial resources to fulfill our mission, but will always diligently act to minimize conflicts of interest among our employees and stakeholders that could compromise broad benefit.</li></ul><h3>Long-Term Safety</h3><ul><li>We are committed to doing the research required to make AGI safe, and to driving the broad adoption of such research across the AI community.</li><li>We are concerned about late-stage AGI development becoming a competitive race without time for adequate safety precautions. Therefore, if a value-aligned, safety-conscious project comes close to building AGI before we do, we commit to stop competing with and start assisting this project. We will work out specifics in case-by-case agreements, but a typical triggering condition might be \"a better-than-even chance of success in the next two years.\"</li></ul><h3>Technical Leadership</h3><ul><li>To be effective at addressing AGI’s impact on society, OpenAI must be on the cutting edge of AI capabilities—policy and safety advocacy alone would be insufficient.</li><li>We believe that AI will have broad societal impact before AGI, and we’ll strive to lead in those areas that are directly aligned with our mission and expertise.</li></ul><h3>Cooperative Orientation</h3><ul><li>We will actively cooperate with other research and policy institutions; we seek to create a global community working together to address AGI’s global challenges.</li><li>We are committed to providing public goods that help society navigate the path to AGI. Today this includes publishing most of our AI research, but we expect that safety and security concerns will reduce our traditional publishing in the future, while increasing the importance of sharing safety, policy, and standards research.</li></ul>",
+		"authors": "",
+		"affiliation": "industry",
+		"date": "2022-05-23",
+		"keywords": ["openai"]
+	},
+	{
+		"title": "Open Ethics Manifesto",
+		"url": "https://openethics.ai/manifesto/",
+		"contents": "<p>Bringing trust in the digital economy demands transformation.</p><p>Since its launch in 2018, the Open Ethics initiative paved the way for the industry to fundamentally rethink how to deal with the information asymmetry between those who develop, deploy — and those who consume services, delivered via autonomous technologies, such as artificial intelligence.</p><p>We live in a hyper-connected world and we need to protect consumers. A truly consumer-centric approach is about making risks visible and predictable. Consumers have the right to know their risks. Moreover, industries are getting more complex with multiple services and vendors working together. We need ways to manage these complex value-chains with certainty. Finally, governments need to play their role by stepping in and regulating critical areas of technology application. We need a radically different approach to disclosure that brings common language to ethical computing.</p><h2>Be the movement</h2><p>The Open Ethics Manifesto represents our commitment to bringing this vision into reality. We aim to work together with people, businesses, and governments everywhere to make technology more transparent and safe for everyone.</p><h2>What we believe in</h2><h3>Human-centric</h3><p>We believe that the consumer is the primary stakeholder in the use of technology, and therefore that consumers have the right to know what risks they are facing when it comes to data and autonomous decisions.</p><h3>Responsibility and balance</h3><p>We believe in a business where people take responsibility. Where people bring themselves to work with all their humanity, diversity, and passions, where they stand for the transparency and integrity of their decisions, protecting common future and respecting individual values.</p><h3>Transparency</h3><p>We believe in the need for self-regulation in technology. Societies are granular, communities differ by norms, value hierarchies, and decision-making practices. While top-down regulations are necessary for some areas, \"top-down\" only is not sufficient. One-size-fits-all solutions rarely work.</p><h3>Open standards</h3><p>We believe consumers should get a voice. Our future needs open collaboration between citizens, regulators, and businesses to allow freedom of choice. We need a common language so that every one of us will have no barriers to make informed decisions about which ethics to follow, and which technology products/services to use.</p><h3>Co-creation</h3><p>We believe in open source and co-creation. Being open is a journey, ideas can evolve when they are shared, freed, and built upon. This journey can start from anywhere and take many paths. The path begins with a step and develops one step at a time.</p><h2>Voluntary disclosure and this manifesto</h2><p>Members of the Open Ethics, DPOs, and product owners by voluntarily disclosing their products are enabling a global transparency capability to be used by end-users, system integrators, enterprise customers. They agree to:</p><ul><li>Build, market, and sincerely disclose digital products’ capabilities in a manner consistent with the Open Ethics Transparency Protocol;</li><li>Advocate for the Open Ethics disclosure as a foundational element of building trust in the digital economy and a commitment to zero-touch interoperability and transparency.</li><li>Contribute to the continuous evolution of Open Ethics components, roadmap, including implementation feedback, case studies, and coordinating relevant work with other organizations.</li><li>Demand conformance to Open Ethics disclosure to be supported by vendors, use the Open Ethics Transparency Protocol whenever appropriate when establishing vendor agreements.</li></ul>",
+		"authors": "",
+		"affiliation": "collective",
+		"date": "2022-05-23",
+		"keywords": ["stakeholders"]
+	},
+	{
+		"title": "",
+		"url": "",
+		"contents": "",
+		"authors": "",
+		"affiliation": "",
+		"date": "",
+		"keywords": []
+	}
+]
