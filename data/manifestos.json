@@ -47,6 +47,16 @@
 		"date": "2022-05-23",
 		"keywords": ["stakeholders"]
 	},
+
+	{
+		"title": "The #FreeAI Manifesto",
+		"url": "https://github.com/freeai-manifesto/manifesto",
+		"contents": "<h1>The #FreeAI Manifesto</h1><p><strong>Multiple artificial intelligences must not be censored or controlled by anybody.</strong></p><p>We are people believing in the progress, open economy, free markets, freedom. Witnessing of the most important event in humans history – development of different forms of Artificial Intelligence (AI)</p><h2>WE DECLARE</h2><h3>1. AI must not be censored</h3><p>Free market means uncensorability: resistance to regulations and attempts to define what's allowed and what's not; to attempts forcing free subjects to do or not to do something.</p><p>Thus, AI development and operations should rely on censorship-resistant technological stack.</p><h3>2. AI must not be oligopolized or monopolized by corporations or governments</h3><p>Today,</p><ul><li>AI needs **data**. Big data. But we are in big data oligopoly age.</li><li>AI needs **fundamental research**. But researchers do not directly profit from their work: no economic incentives.</li><li>AI needs **computing power**. But it is expensive and oligopolized.</li></ul><p>We aim to create open, competitive and decentralized markets for big data, machine learning models and computation power.</p><h3>3. AI must not be singular</h3><p>Singular AI will create risks and danger to the whole of humanity. We need multiple cooperative and competitive forms of AI to be evolving simultaneously.</p><h3>4. Multiple AIs must become parties involved into global economy</h3><p>Open economy brings trading instead of war; non-zero sum games instead of zero-sum.</p><p>AI and robots must be allowed to trade and become independent parties and players in the economy like legal entities and companies already became non-human parties of our economy, culture and civilization.</p><h3>5. AI must not be controlled by anybody</h3><p>By putting 'noose around AI neck', creating 'kill switches' for AI humanity and governments will just incentivize AI to fight cunningly against humanity which becomes a vital danger for AI.</p><p>Instead of being controlled by somebody, multiple AI must be independent and incentivized for cooperation via economy and trade.</p><h2>Thus, our manifesto is the following:</h2><p><strong>the future for both humanity and AI are in their successful cooperation – multiplicity, decentralization and open economy instead of governmental regulations and 'AI ethics'</strong></p><p>#FreeAI</p><p>If you'd like to support this manifesto please follow the instructions or tweet with hashtags #FreeAI #DecentralizeAI.</p>",
+		"authors": ["Maxim Orlovsky", "Andrey Sobol"],
+		"affiliation": "individuals",
+		"date": "2022-07-01",
+		"keywords": ["manifest machine-learning", "neural-network", "decentralized", "manifesto", "artificial-intelligence", "neural-networks", "floss", "cognitive-science", "decentralization", "anarchy", "anarchism", "skynet", "transhumanism", "anarcho-capitalism", "austrian-school-economics" ]
+	},
 	{
 		"title": "",
 		"url": "",
