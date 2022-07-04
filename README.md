@@ -12,4 +12,4 @@ This repository contains a dataset of artificial intelligence (AI) ethics charte
 
 ## Important related works
 
-- (The global landscape of AI ethics guidelines)[https://www.nature.com/articles/s42256-019-0088-2], Anna Jobin, Marcello Ienca, Effy Vayena, Nature Machine Intelligence, 2019.
+- [The global landscape of AI ethics guidelines](https://www.nature.com/articles/s42256-019-0088-2), Anna Jobin, Marcello Ienca, Effy Vayena, Nature Machine Intelligence, 2019.
